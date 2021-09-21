@@ -1,0 +1,1 @@
+{ "title": "Student Email Checker", "author": "Technocyrex", "version": "1.0.0" }
