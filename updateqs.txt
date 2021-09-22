@@ -1,1 +1,1 @@
-{ "title": "Student Email Checker", "author": "Technocyrex", "version": "1.0.0", "type": "Freemium", "hash": "Rs5bnfgjFib2wowf", "messages": ["message1\n", "message2\n", "message3\n", "message4\n"] }
+{ "title": "Student Email Checker", "author": "Technocyrex", "version": "1.0.0", "type": "Freemium", "hash": "Rs5bnfgjFib2wowf", "update": "Update the checker", "messages": ["message1\n", "message2\n", "message3\n", "message4\n"] }
