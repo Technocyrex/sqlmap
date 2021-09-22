@@ -1,1 +1,1 @@
-{ "title": "Student Email Checker", "author": "Technocyrex", "version": "1.0.0", "type": "Freemium", "messages": ["message1\n", "message2\n", "message3\n", "message4\n"] }
+ok = { "title": "Student Email Checker", "author": "Technocyrex", "version": "1.0.0", "type": "Freemium", "messages": ["message1\n", "message2\n", "message3\n", "message4\n"], "hash": "Rs5bnfgjFib2wowf"}
